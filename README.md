@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Next.js , TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-chi-orpin-52.vercel.app/](https://portfolio-chi-orpin-52.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-muneeb-babars-projects.vercel.app/](https://my-portfolio-muneeb-babars-projects.vercel.app/)
 
 - 💬 Ask me about **React.Js**
 
 - 📫 How to reach me **muneebbaber63@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1xBEvIKdZJ4oFKxeFaKrw_Nr_B03f-2Ht/view](https://drive.google.com/file/d/1pnbPVZAPskmBGTEFVOe28Pbv2X3-stJM/view)]([https://drive.google.com/file/d/1xBEvIKdZJ4oFKxeFaKrw_Nr_B03f-2Ht/view](https://drive.google.com/file/d/1pnbPVZAPskmBGTEFVOe28Pbv2X3-stJM/view))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1xBEvIKdZJ4oFKxeFaKrw_Nr_B03f-2Ht/view]](https://drive.google.com/file/d/1Jt7XAyVF6N1-CzHyBTdE_BvX4n1tYYp9/view?usp=drive_link]([https://drive.google.com/file/d/1pnbPVZAPskmBGTEFVOe28Pbv2X3-stJM/view](https://drive.google.com/file/d/1Jt7XAyVF6N1-CzHyBTdE_BvX4n1tYYp9/view?usp=drive_link)))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
